@@ -75,15 +75,17 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: artemis
 theme_config:
-  logo: logo_ksi.jpg
+  logo: KSI_Logo.png
+  favicon: logo_ksi.jpg
   copyright:
     since: 2019
     name: Koło Studentów Informatyki
     url: ksi.cs.uni.wroc.pl
   menu:
-    Blog: /blog
-    Kontakt: /contact
     O nas: /
+    Kontakt: /contact
+    Zosia: /zosia
+    Facebook: https://www.facebook.com/ksi.uwr/
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
